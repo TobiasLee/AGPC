@@ -1,5 +1,5 @@
 ## Automatic Generation of Personalized Comment Based on User Profile
-- This is the code for ACL 2019 SRW paper *[AGPC: Automatic Generation of Personalized Comment Based on User Profile](https://arxiv.org/pdf/1907.10371v1.pdf)* 
+Code repo for ACL 2019 SRW paper *[AGPC: Automatic Generation of Personalized Comment Based on User Profile](https://arxiv.org/pdf/1907.10371v1.pdf)* 
 
 ### Requirements
 * Python 3.5
@@ -27,11 +27,11 @@ python infer_PCGN.py
 ### Citing this work
 Please kindly cite our paper if this [paper](https://arxiv.org/pdf/1907.10371v1.pdf) or the code are helpful.
 ```
-@article{zeng2019automatic,
+@inproceedings{zeng2019automatic,
   title={Automatic Generation of Personalized Comment Based on User Profile},
   author={Zeng, Wenhuan and Abuduweili, Abulikemu and Li, Lei and Yang, Pengcheng},
-  journal={ACL 2019},
-  pages={229},
+  booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop},
+  pages={229--235},
   year={2019}
 }
 ```
